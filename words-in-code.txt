@@ -1,0 +1,1 @@
+cat,pink,phone,orange,man,home,human,house
